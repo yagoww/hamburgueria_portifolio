@@ -1,0 +1,25 @@
+.precinho {
+  width: 320px;
+  display: flex;
+  justify-content: space-between;
+  margin-left: 20px;
+  margin-top: 20px;
+  border-top: 1px solid #e0e0e0;
+}
+
+.precinho section {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #828282;
+}
+
+.buttonR {
+  width: 343px;
+  height: 60px;
+  font-size: 16px;
+  background-color: #e0e0e0;
+  border: none;
+  border-radius: 8px;
+  color: #828282;
+  cursor: pointer;
+}

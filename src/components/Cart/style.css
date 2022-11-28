@@ -1,0 +1,19 @@
+.logo {
+  width: 365px;
+  height: 65px;
+
+  color: #ffffff;
+  background-color: #27ae60;
+  border: 2px solid #27ae60;
+
+  font-style: bold;
+  font-size: 18px;
+  border-radius: 5px 5px 0px 0px;
+
+  display: flex;
+  align-items: center;
+}
+
+.logo p {
+  margin-left: 20px;
+}
