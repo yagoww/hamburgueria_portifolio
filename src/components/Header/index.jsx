@@ -23,7 +23,12 @@ function Header({ produtos, setSalvarProdutos }) {
   return (
     <div>
       <div className="header">
-        <img className="img" alt="imagem" src={imagem} />
+        <img
+          className="img"
+          alt="imagem"
+          src={imagem}
+          onClick={setSalvarProdutos}
+        />
         <div className="busca">
           <input
             className="pesquisa"

@@ -9,6 +9,10 @@
   background-color: #f5f5f5;
 }
 
+.img {
+  cursor: pointer;
+}
+
 .botao {
   width: 107px;
   height: 40px;
@@ -16,6 +20,7 @@
   border: #27ae60 2px solid;
   background-color: #27ae60;
   color: #ffffff;
+  cursor: pointer;
 }
 
 .pesquisa {
