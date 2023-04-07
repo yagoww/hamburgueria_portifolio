@@ -24,8 +24,8 @@
 }
 
 .pesquisa {
-  width: 260px;
-  height: 34px;
+  /* width: 260px;
+  height: 34px; */
   border: none;
 }
 
@@ -50,8 +50,9 @@
   background-color: #fff;
 }
 
-@media (min-width: 900px) {
+@media (max-width: 900px) {
   .header {
-    margin-bottom: 36px;
+    /* margin-bottom: 36px; */
+    width: 100vw;
   }
 }

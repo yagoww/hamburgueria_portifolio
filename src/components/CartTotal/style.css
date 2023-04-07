@@ -27,3 +27,14 @@
 .buttonR:hover {
   border: 2px solid #27ae60;
 }
+
+@media (max-width: 900px) {
+  .buttonR {
+    width: 100vw;
+    padding-right: 0px;
+  }
+
+  .precinho {
+    width: 85vw;
+  }
+}
